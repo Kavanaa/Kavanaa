@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Kavanaa
-- 👀 I’m interested in becoming an astronaut (mission specialist)
-- 🌱 I’m currently learning python
 - 📫 How to reach me - email @kavanagurukar@gmail.com
 
 <!---
